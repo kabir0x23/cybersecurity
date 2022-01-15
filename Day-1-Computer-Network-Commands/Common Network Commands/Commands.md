@@ -28,21 +28,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 ```bash
 2. ip a
 ```
-<!-- new version of ifconfig -->
-```bash
-1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000                                                                                  
-    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00                                 
-    inet 127.0.0.1/8 scope host lo
-       valid_lft forever preferred_lft forever
-    inet6 ::1/128 scope host 
-       valid_lft forever preferred_lft forever
-2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP group default qlen 1000
-    link/ether 00:0c:29:e6:4d:4a brd ff:ff:ff:ff:ff:ff
-    inet 192.168.174.133/24 brd 192.168.174.255 scope global dynamic noprefixroute eth0
-       valid_lft 1762sec preferred_lft 1762sec
-    inet6 fe80::20c:29ff:fee6:4d4a/64 scope link noprefixroute 
-       valid_lft forever preferred_lft forever
-
+![[./images/ip-a.png]]
 ```
 ---
 ```bash
