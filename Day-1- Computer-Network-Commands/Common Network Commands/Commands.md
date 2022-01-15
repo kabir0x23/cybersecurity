@@ -46,7 +46,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 ```
 ---
 ```bash
-iwconfig
+3. iwconfig
 ```
 ```bash
 lo        no wireless extensions.
@@ -62,24 +62,72 @@ wlan0     IEEE 802.11  ESSID:off/any
 ```
 ---
 ```bash
-arp -a
+4. arp -a
 ```
 
 ```bash
-ip n
+? (192.168.174.2) at 00:50:56:fb:38:47 [ether] on eth0
+? (192.168.174.254) at 00:50:56:e6:25:e6 [ether] on eth0
+? (192.168.174.129) at <incomplete> on eth0
 ```
+---
 
 ```bash
-ping 192.168.15.1
+5. ip n
 ```
+```bash
+192.168.174.2 dev eth0 lladdr 00:50:56:fb:38:47 STALE
+192.168.174.254 dev eth0 lladdr 00:50:56:e6:25:e6 STALE
+192.168.174.129 dev eth0  FAILED
+```
+---
+```bash
+6. ping 192.168.15.1
+```
+```bash
+PING google.com (142.250.206.110) 56(84) bytes of data.
+64 bytes from del11s20-in-f14.1e100.net (142.250.206.110): icmp_seq=1 ttl=128 time=122 ms
+64 bytes from del11s20-in-f14.1e100.net (142.250.206.110): icmp_seq=2 ttl=128 time=55.1 ms
+64 bytes from del11s20-in-f14.1e100.net (142.250.206.110): icmp_seq=3 ttl=128 time=53.6 ms
+^C
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 53.632/76.982/122.225/31.996 ms
+```
+---
 
 ```bash
-netstat -ano
+7. netstat -ano
 ```
+```bash
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       Timer
+udp        0      0 192.168.174.133:68      192.168.174.254:67      ESTABLISHED off (0.00/0/0)
+raw6       0      0 :::58                   :::*                    7           off (0.00/0/0)
+Active UNIX domain sockets (servers and established)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  2      [ ACC ]     STREAM     LISTENING     19776    /run/uuidd/request
+unix  2      [ ACC ]     STREAM     LISTENING     20168    /tmp/dbus
+```
+---
 
 ```bash 
-route
+8. route
 ```
 
 ```bash
-ip r```
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+default         192.168.174.2   0.0.0.0         UG    100    0        0 eth0
+192.168.174.0   0.0.0.0         255.255.255.0   U     100    0        0 eth0
+```
+---
+```bash
+9. ip r
+```
+```bash
+default via 192.168.174.2 dev eth0 proto dhcp metric 100 
+192.168.174.0/24 dev eth0 proto kernel scope link src 192.168.174.133 metric 100 
+```
+
+
