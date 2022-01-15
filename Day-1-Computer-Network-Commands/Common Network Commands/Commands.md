@@ -28,7 +28,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 ```bash
 2. ip a
 ```
-![[./images/ip-a.png]]
+![](./images/ip-a.png)
 ```
 ---
 ```bash
