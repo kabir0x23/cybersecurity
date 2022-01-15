@@ -1,8 +1,8 @@
 ```bash
 1. ifconfig
 ```
-![[Pasted image 20220115191105.png]]
-```bash
+
+![[Pasted image 20220115191418.png]]```bash
 eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.174.133  netmask 255.255.255.0  broadcast 192.168.174.255
         inet6 fe80::20c:29ff:fee6:4d4a  prefixlen 64  scopeid 0x20<link>
