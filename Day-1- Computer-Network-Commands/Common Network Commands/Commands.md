@@ -1,7 +1,7 @@
 ```bash
 1. ifconfig
 ```
-![[Pasted image 20220115191418.png]]
+
 ```bash
 eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.174.133  netmask 255.255.255.0  broadcast 192.168.174.255
@@ -28,7 +28,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 ```bash
 2. ip a
 ```
-
+<!-- new version of ifconfig -->
 ```bash
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000                                                                                  
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00                                 
@@ -44,11 +44,23 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
        valid_lft forever preferred_lft forever
 
 ```
-
+---
 ```bash
 iwconfig
 ```
+```bash
+lo        no wireless extensions.
 
+eth0      no wireless extensions.
+
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=20 dBm   
+          Retry short limit:7   RTS thr=2347 B   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+		  
+```
+---
 ```bash
 arp -a
 ```
