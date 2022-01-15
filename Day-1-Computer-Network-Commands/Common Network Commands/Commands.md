@@ -125,12 +125,5 @@ default         192.168.174.2   0.0.0.0         UG    100    0        0 eth0
 ```bash
 9. ip r
 ```
-```bash
-default via 192.168.174.2 dev eth0 proto dhcp metric 100 
-192.168.174.0/24 dev eth0 proto kernel scope link src 192.168.174.133 metric 100 
-```
-
 
 ![](./images/2022-01-15-21_08_24-Kali-Linux-VMware-Workstation.png)
-
-![[2022-01-15-21_08_24-Kali-Linux-VMware-Workstation.png]]
