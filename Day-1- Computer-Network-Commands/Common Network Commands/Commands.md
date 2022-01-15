@@ -1,10 +1,7 @@
 ```bash
 1. ifconfig
 ```
-
 ![[Pasted image 20220115191418.png]]
-![image](https://user-images.githubusercontent.com/44284877/149624085-d3db0adc-38ea-42c2-a6b2-0a6b4d83f85f.png)
-
 ```bash
 eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         inet 192.168.174.133  netmask 255.255.255.0  broadcast 192.168.174.255
