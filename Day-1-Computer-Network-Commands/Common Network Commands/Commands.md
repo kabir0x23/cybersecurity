@@ -29,7 +29,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 2. ip a
 ```
 ![](./images/ip-a.png)
-```
+
 ---
 ```bash
 3. iwconfig
