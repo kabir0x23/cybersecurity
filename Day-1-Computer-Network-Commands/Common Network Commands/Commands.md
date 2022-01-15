@@ -131,3 +131,6 @@ default via 192.168.174.2 dev eth0 proto dhcp metric 100
 ```
 
 
+![](./images/2022-01-15-21_08_24-Kali-Linux-VMware-Workstation.png)
+
+![[2022-01-15-21_08_24-Kali-Linux-VMware-Workstation.png]]
