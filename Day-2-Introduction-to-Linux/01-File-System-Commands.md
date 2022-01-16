@@ -9,7 +9,7 @@ print current directory
 ```bash 
 2. `cd ~/Desktop`
 ```
-`~/` is your home directory - root 
+~/ is your home directory - root 
 ![](images/01-pwd.png)
 ---
 ```bash
