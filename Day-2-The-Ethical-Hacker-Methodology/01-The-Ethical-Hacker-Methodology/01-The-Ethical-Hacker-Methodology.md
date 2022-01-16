@@ -3,8 +3,8 @@
 
 ---
 ### 1. Reconnaissance:
-**Active and passive**
-passive: searching on the Google, LinkedIn , or a twitter profile
+**Active and Passive** -
+**passive**: searching on the Google, LinkedIn , or a twitter profile
 You are not going out to company's websites and not doing anything active against the site
 
 active: `using tools`, `scanning`, `Nessus`
