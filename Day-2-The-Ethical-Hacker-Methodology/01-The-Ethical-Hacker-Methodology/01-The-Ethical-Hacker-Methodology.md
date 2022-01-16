@@ -1,11 +1,30 @@
 ## The Ethical Hacker Methodology
 ![](images/01-The-Ethical-Hacker-Methodology.png)
 
+<<<<<<< HEAD
 ### 1. Reconnaissance:
 - **Active and passive** -
 - Passive: searching on the Google, LinkedIn , or a twitter profile
 - You are not going out to company's websites and not doing anything active against the site
 - active: `using tools`, `scanning`, `Nessus`
+=======
+<<<<<<< HEAD
+1. ### Reconnaissance:
+	Active and passive
+	passive: searching on the Google, LinkedIn , or a twitter profile
+	You are not going out to company's websites and not doing anything active against the site
+=======
+---
+### 1. Reconnaissance:
+
+**Active and Passive** -
+
+**passive**: searching on the Google, LinkedIn , or a twitter profile
+You are not going out to company's websites and not doing anything active against the site
+>>>>>>> 943031a07513061f26849f8112b22da023e39f00
+
+	active: `using tools`, `scanning`, `Nessus`
+>>>>>>> parent of 13518d3 (The-Ethical-Hacker-Methodology)
 
 ---
 ### 2. Scanning and Enumeration:
@@ -33,4 +52,8 @@
 - Covering tracks is the more hacker way of putting it
 
 ---
+<<<<<<< HEAD
 It is all similar, if you do web-app or a network penetration testing
+=======
+It is al similar, if you do web-app or a network penetration testing
+>>>>>>> parent of 13518d3 (The-Ethical-Hacker-Methodology)
