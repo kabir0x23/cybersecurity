@@ -1,5 +1,6 @@
 1. `pwd`
-	-  print current directory
+print current directory
+
 ![](images/01-pwd.png)
 ---
 2. `cd ~/Desktop`
@@ -13,7 +14,7 @@
 4. `ls` 
 - list
 ![](images/02-cd.png)
-
+---
 5. `mkdir` 
 - create a folder/directory
 ![](images/05-mkdir.png)
@@ -21,10 +22,11 @@
 6. `rm -r kabir` 
 - use `-r`  for removing folder
 ![](images/05-mkdir.png)
-
+---
 7. `ls -la` 
 - list hidden files
 ![](images/06-hidden-files.png)
+---
 8. `echo "hi" > file.txt`
 - is used for print `hi` and `>` is used to store that msg in `file.txt`
 ![](images/07-echo.png)
@@ -36,6 +38,7 @@
 10. `cp file.txt twt/`
 - copy file.txt to twt-folder 
 ![](images/08-cp.png)
+---
 11. `mv file.txt twt/` 
 - in this mv will move the file to twt
 ![](images/08-cp.png)
