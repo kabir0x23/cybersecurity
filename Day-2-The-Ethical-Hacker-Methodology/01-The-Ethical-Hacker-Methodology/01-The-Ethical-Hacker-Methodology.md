@@ -37,4 +37,4 @@
 	Covering tracks is the more hacker way of putting it
 
 ---
-       It is al similar, if you do web-app or a network penetration testing
+	It is al similar, if you do web-app or a network penetration testing
