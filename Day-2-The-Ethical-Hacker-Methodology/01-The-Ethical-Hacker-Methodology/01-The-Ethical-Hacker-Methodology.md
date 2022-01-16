@@ -3,13 +3,13 @@
 1. Reconnaissance:
 	Active and passive
 	passive: searching on the Google, LinkedIn , or a twitter profile
-	You are not going out to companies' websites and not doing anything active against the site
+	You are not going out to company's websites and not doing anything active against the site
 
-	active: tools, scanning, Nessus
+	active: `using tools`, `scanning`, `Nessus`
 
 ---
 2. Scanning and Enumeration:
-	That is active where we go out and we take tools such as Nmap and Nessus
+	That is active where we go out and we take tools such as `Nmap` and `Nessus`
 	we take those and we scan actively against the target
 
 	now we are looking for a open ports, vulnerabilities and what return 
