@@ -1,9 +1,19 @@
 ![](images/01-The-Ethical-Hacker-Methodology.png)
 
+<<<<<<< HEAD
 1. ### Reconnaissance:
 	Active and passive
 	passive: searching on the Google, LinkedIn , or a twitter profile
 	You are not going out to company's websites and not doing anything active against the site
+=======
+---
+### 1. Reconnaissance:
+
+**Active and Passive** -
+
+**passive**: searching on the Google, LinkedIn , or a twitter profile
+You are not going out to company's websites and not doing anything active against the site
+>>>>>>> 943031a07513061f26849f8112b22da023e39f00
 
 	active: `using tools`, `scanning`, `Nessus`
 
