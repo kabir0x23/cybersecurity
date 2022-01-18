@@ -33,6 +33,7 @@ Will show you every devices along with mac addresses those are connected to your
 5. ip n
 ```
 new version of arp
+
 ![](images/ip-n.png)
 
 ---
