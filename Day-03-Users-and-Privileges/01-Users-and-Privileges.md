@@ -25,6 +25,7 @@ rwxr-xr-x
 All permissions are there.
 This permissions setting that particular group has
 In this case can do read, write and execute.
+
 ![](images/03-rwx.png)
 
 ---
@@ -39,7 +40,7 @@ In this case can do only read and execute.
 3. drwxr-x`r-x` - For all the users on the machine
 In this case we have read and execute permissions.
 
-![](05-local-users.png)
+![](images/05-local-users.png)
 
 ---
 /tmp - dir is having all permissions
