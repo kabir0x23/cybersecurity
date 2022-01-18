@@ -6,7 +6,7 @@ ls -la
 ---
 `d` - directory
 `-` - file
-![](02-dir-file.png)
+![](02-dir-file.png)  
 
 ---
 `rwx`
