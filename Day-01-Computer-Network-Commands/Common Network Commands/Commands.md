@@ -57,6 +57,7 @@ What's open here, machine is talking with someone else, some like arp
 8. route
 ```
 Where your traffic exits essential
+
 ![](images/route.png)
 
 ---
@@ -64,4 +65,4 @@ Where your traffic exits essential
 9. ip r
 ```
 new version of route
-![](ip-r.png)
+![](images/ip-r.png)
