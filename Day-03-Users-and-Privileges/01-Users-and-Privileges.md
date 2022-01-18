@@ -49,6 +49,7 @@ In this case we have read and execute permissions.
 /tmp - dir is having all permissions
 
 ![](images/06-tmp.png)
+
 While hacking, we might actually upload it into the temp folder because that's where we can execute those files
 
 It's all about insecure configurations.
