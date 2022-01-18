@@ -6,6 +6,7 @@ ls -la
 ---
 `d` - directory
 `-` - file
+
 ![](images/02-dir-file.png)  
 
 ---
@@ -18,6 +19,7 @@ rwxr-xr-x
 ```
 3 groups are here
 1- `rwx` 2- `r-x` 3- `r-w`
+
 ![](images/08-3groups.png)
 
 ---
@@ -25,6 +27,7 @@ rwxr-xr-x
 All permissions are there.
 This permissions setting that particular group has
 In this case can do read, write and execute.
+
 
 ![](images/03-rwx.png)
 
@@ -44,6 +47,7 @@ In this case we have read and execute permissions.
 
 ---
 /tmp - dir is having all permissions
+
 ![](images/06-tmp.png)
 While hacking, we might actually upload it into the temp folder because that's where we can execute those files
 
