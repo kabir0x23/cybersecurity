@@ -4,8 +4,7 @@
 for checking ip address of a machine
 ![](images/ifconfig.png)
 
-
-```
+---
 ```bash
 2. ip a
 ```
@@ -23,7 +22,6 @@ then it will not show anything
 ![](images/iwconfig.png)
 
 ---
-```
 ```bash
 4. arp -a
 ```
