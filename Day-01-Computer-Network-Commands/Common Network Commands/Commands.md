@@ -43,7 +43,7 @@ new version of arp
 Ping is used to check is that host/ip is working or not 
 (connectable or not)
 
-![[ping.png]]
+![](images/ping.png)
 
 ---
 ```bash
@@ -65,4 +65,5 @@ Where your traffic exits essential
 9. ip r
 ```
 new version of route
+
 ![](images/ip-r.png)
