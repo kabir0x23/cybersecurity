@@ -7,7 +7,7 @@ print current directory
 
 ---
 ```bash 
-2. `cd ~/Desktop`
+2. cd ~/Desktop
 ```
 `~/` is your home directory - root
 
@@ -71,7 +71,7 @@ for view the content of the file
 
 ---
 ```bash
-10. cp file.txt twt/
+10. copy file.txt to twt-folder 
 ```
 copy file.txt to twt-folder 
 
@@ -95,7 +95,7 @@ will rename the file
 
 ---
 ```bash
-13. `locate` 
+13. locate
 ```
 locate will find the file
 
@@ -103,7 +103,7 @@ locate will find the file
 
 ---
 ```bash
-14. `updatedb` 
+14. updatedb
 ```
 if file is new updatedb will update the database after that you can see we are able to get the file location
 
