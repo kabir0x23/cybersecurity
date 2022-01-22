@@ -1,5 +1,5 @@
 ## The Ethical Hacker Methodology
-![](100DaysOfHacking/Day-05-The-Ethical-Hacker-Methodology/01-The-Ethical-Hacker-Methodology/images/01-The-Ethical-Hacker-Methodology.png)
+![](100DaysOfHacking/Day-05-The-Ethical-Hacker-Methodology/images/01-The-Ethical-Hacker-Methodology.png)
 
 ---
 ### 1. Reconnaissance:
