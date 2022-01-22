@@ -1,4 +1,4 @@
-# Passive Reconnaissance Overview
+## Passive Reconnaissance Overview
 ![](images/01-Passive-Reconnaissance-Overview.png)
 ## Physical / Social
 ---
@@ -18,3 +18,29 @@ just gathering this information from the physical social aspect is incredibly us
 - Pictures (badge photo, desk photos, computer photos, etc.)
 
 ---
+## Web / Host assessment
+![](images/01-web-host.png)
+
+### 1. Target Validation:
+- Choosing the right target
+- Verifying the target IP/host Ist
+- Tools:
+	- WHOIS, nslookup, dnsrecon
+	
+### 2. Finding Subdomains
+- Sometimes More Subdomains == more chances of a bug
+- Tools:
+	- Google-Fu, dig, Nmap, Sublist3r, Bluto, crt .sh, etc.
+	
+### 3. Fingerprint:
+- What services are running, is that apache, which port is open, which version of FTP is open.
+	- Tools:
+	Nmap, Wappalyzer, Whatweb, BuiltWith, Netcat
+- On the passive side We're not touching any machine So we're not gonna be doing much scanning against the host
+- We just have to utilize what kind of information might already be out there
+- But as long as we're not scanning it, it's still passive
+
+### 4. Data Breaches:
+- breached information
+- Tools:
+	HavelBeenPwned, Breach-Parse, WeLeakInfo
