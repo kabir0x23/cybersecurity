@@ -21,6 +21,6 @@
   <a href="https://www.instagram.com/thecyberw0rld/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>&ensp;
- <a href="https://www.youtube.com/channel/thecyberw0rld">
+ <a href="https://www.youtube.com/c/thecyberworld">
   <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
   </a>
