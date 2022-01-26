@@ -4,7 +4,7 @@
 |:-- | :--|
 | 1  |   [File System Commands](https://github.com/kabir0x17/100DaysOfHacking/blob/main/Day-02-Introduction-to-Linux/01-File-System-Commands.md)  |
 
-## Join TheCyberWorld Groups
+## Join TheCyberWorld Community 
   <a href="https://discord.com/invite/QHBPq6xP5p">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>&ensp;
