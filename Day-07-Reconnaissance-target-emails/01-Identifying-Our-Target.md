@@ -1,6 +1,6 @@
 ### 1. The First step
 First step is to choose the target (from bugcrowd, HackerOne or aself-hosted program etc) In our case I choose tesla .com
-![[03-tesla.png]]
+![](03-tesla.png)
 
 ---
 \*.tesla.com
