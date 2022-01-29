@@ -1,6 +1,6 @@
 ### 1. The First step
 First step is to choose the target (from bugcrowd, HackerOne or aself-hosted program etc) In our case I choose tesla .com
-![](03-tesla.png)
+![](images/03-tesla.png)
 
 ---
 \*.tesla.com
@@ -11,7 +11,7 @@ means any subdomain that contains tesla .com in it, like
 - -> dev.tesla .com
 	are included
 	
-![](02-identify-our-target.png)
+![](images/02-identify-our-target.png)
 
 ---
 ### . out-of-scope:
@@ -21,4 +21,4 @@ these sub-domains are not included
 - in rare cases, people do get bounties from out-of-scope domains but it depends on the criticality of the bug.
 - must check the subdomain before hunting.
 
-![](02-out-of-scope.png)
+![](images/02-out-of-scope.png)
