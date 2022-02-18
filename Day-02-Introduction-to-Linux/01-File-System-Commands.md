@@ -57,7 +57,7 @@ list hidden files
 ```bash
 8. echo "hi" > file.txt
 ```
-is used for print `hi` and `>` is used to store that msg in `file.txt`
+`echo "hi"` is used for print `hi` and `>` is used to store that msg in `file.txt`
 
 ![](images/07-echo.png)
 
@@ -71,7 +71,7 @@ for view the content of the file
 
 ---
 ```bash
-10. copy file.txt to twt-folder 
+10. cp file.txt twt/
 ```
 copy file.txt to twt-folder 
 
@@ -95,7 +95,7 @@ will rename the file
 
 ---
 ```bash
-13. locate
+13. locate file.txt
 ```
 locate will find the file
 
