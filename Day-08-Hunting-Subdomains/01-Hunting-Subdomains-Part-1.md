@@ -17,9 +17,11 @@ If do we hunt on subdomains, chances are more to find a bug.
 ---
 We also can use websites to find sub-domains
 [ Websites ] -
-1. chaos.projectdiscovery.io
+#### 1. chaos.projectdiscovery.io
+
 ![](images/06-chaos.png)
 ![](images/06-chaoss.png)
-2. crt.sh
+#### 2. crt.sh
+
 ![](images/04-crt.sh-site.png)
 ![](images/05-crt-result.png)
