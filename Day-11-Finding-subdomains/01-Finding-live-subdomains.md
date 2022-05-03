@@ -8,6 +8,8 @@ our main focus must be on live subdomains
 1. Installation of GO Language
 -> https://go.dev/doc/install
 2. Installation of Tools (subdomains finders)
+
+```bash
 go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 go install github.com/projectdiscovery/httpx/cmd/httpx@latest
 go install github.com/tomnomnom/httprobe@latest
@@ -16,10 +18,11 @@ apt install amass
 apt install assetfinder
 pip3 install dnsgen
 
+
 git clone https://github.com/aboul3la/Sublist3r.git
 cd Sublist3r
 sudo pip install -r requirements.txt
-
+```
 ---
 ##### Hunting Subdomains
 1. Subfinder:
