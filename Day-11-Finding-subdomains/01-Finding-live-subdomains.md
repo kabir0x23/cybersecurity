@@ -26,7 +26,7 @@ sudo pip install -r requirements.txt
 ---
 ##### Hunting Subdomains
 1. Subfinder:
--> subfinder -d sony.com -o subfinder_sony.com.txt
+-> `subfinder -d sony.com -o subfinder_sony.com.txt`
 Found: 8986 subdomains.
 ![[images/Pasted image 20220503114800.png]]
 2. Assetfinder:
