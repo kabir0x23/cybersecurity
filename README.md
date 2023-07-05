@@ -1,11 +1,8 @@
 # 100DaysOfHacking
 
-| Days 1-10 | Topic                                                                                 |
+| 01-10 | Topic                                                                                 |
 |:--------- |:------------------------------------------------------------------------------------- |
 | 1         | [Common Network Commands](Day-01-Computer-Network-Commands/Common-Network-Commands.md) |
-| 2         | [File System Commands](Day-02-Introduction-to-Linux/01-File-System-Commands.md)     |
-| 3         | [Users and Privileges](Day-03-Users-and-Privileges/01-Users-and-Privileges.md)     |
-| 3         | [File-Permissions](Day-03-Users-and-Privileges/02-File-Permissions.md)     |
 
 ## Join TheCyberWorld Community
 
@@ -15,7 +12,6 @@
     <a href="https://telegram.me/thecyberw0rld">
     <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
   </a> 
-  </a> 
   <a href="https://twitter.com/thecyberw0rld/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a> 
