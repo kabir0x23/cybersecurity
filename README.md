@@ -2,7 +2,7 @@
 
 | 01-10 | Topic                                                                                 |
 |:--------- |:------------------------------------------------------------------------------------- |
-| 1         | [Common Network Commands](Day-01-Computer-Network-Commands/Common-Network-Commands.md) |
+| 1         | [Common Network Commands](01-Computer-Network-Commands/Common-Network-Commands.md) |
 
 ## Join TheCyberWorld Community
 
