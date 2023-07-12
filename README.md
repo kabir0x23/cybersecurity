@@ -1,6 +1,6 @@
 # CyberSecurityHandbook
 
-| No | Topic                                                                                 |
+| Day | Topic                                                                                 |
 |:--------- |:------------------------------------------------------------------------------------- |
 | 01         | [Common Network Commands](01-Computer-Network-Commands/Common-Network-Commands.md) |
 
