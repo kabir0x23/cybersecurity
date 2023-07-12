@@ -4,7 +4,7 @@
 |:--------- |:------------------------------------------------------------------------------------- |
 | 01         | [Common Network Commands](01-Computer-Network-Commands/Common-Network-Commands.md) |
 
-## Join TheCyberWorld Community
+## Join Thecyberworld Community
 
 <a href="https://discord.com/invite/QHBPq6xP5p">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
